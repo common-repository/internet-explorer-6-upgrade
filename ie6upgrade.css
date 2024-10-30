@@ -1,0 +1,33 @@
+#ie6upgrade_main {
+	width: 700px;
+	margin: auto;
+	background-color: #FFF;
+	left: 50%;
+	top:30px;
+	margin-left: -350px;
+	position: absolute;
+	font-family: 'Lucida Grande','Lucida Sans Unicode',Arial,Verdana,sans-serif;
+	font-size: 10pt;
+	color: gray;
+	padding: 10px;
+	border: 1px solid #CCC;
+	z-index:9999999;
+	visibility: hidden;
+}
+#ie6upgrade_main a{
+	text-decoration: none;
+	color: #05A;
+}
+#ie6upgrade_titulo {
+	font-size: 14pt;
+	padding: 13px 0 13px 0;
+	color: black;
+	
+}
+.ie6upgrade_browser {
+	width: 118px;
+	height: 121px;
+	vertical-align:top;
+	font-size: 8pt;
+	text-align:center;
+}
